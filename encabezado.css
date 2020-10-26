@@ -1,0 +1,71 @@
+
+img {
+	width: 250px;
+	margin-top: 40px;
+	margin-left: 200px;
+}
+
+.cabeza{
+
+	float: left;
+	list-style: none;
+	padding: 15px;
+}
+
+nav {
+	float: right;
+	margin-top: 100px;
+	margin-right: 205px;
+}
+
+a{
+
+	text-decoration: none;
+	font-family: Blogger Sans;
+}
+
+.cabeza:hover {
+	background-color: black;
+	border-radius: 5px;
+	transition: ease 1s all;
+}
+
+.cabeza:hover a{
+   color: white;
+}
+
+.arriba {
+	width: 100%;
+	height: 50px;
+	background: black;
+	margin-top: 0;
+}
+
+.arriba1{
+	
+	width:20%;
+}
+
+.arriba1 img {
+	margin-top:0;
+	width: 90px;
+	border-radius: 50px;
+}
+
+.arriba2 li {
+  float: left;
+  list-style: none;
+  margin-top:-100;
+}
+
+
+.arriba2 ul li img {
+	width: 50px;
+	margin: 0;
+}
+
+.arriba2 {
+	margin-top: -70px;
+	margin-left: 950px; 
+	width: 20%;
+}

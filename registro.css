@@ -1,0 +1,86 @@
+.formulario{
+	width: 900px;
+	height: 550px;
+	margin: auto;
+	margin-top: 20px;
+	border: 1px solid red;	
+	background-image: url(../imagenes/formulario.jpg);
+}
+
+.form1 {
+	margin-top: 10px;
+	margin: auto;
+	width: 440px;
+	height: 420px;
+}
+
+form {
+	width: 400px;
+	height: 450px;
+	margin: auto;
+	background: rgba(0,0,0,0.4);
+	padding: 10px 20px;
+	border-radius: 7px;
+	font-family: monospace;
+}
+
+h2{
+	color: #fff;
+	text-align: center;
+	margin: 0;
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+
+input, textarea{
+	width: 95%;
+	margin-bottom: 20px;
+	padding: 7px;
+	font-size: 17px;
+	border: none;
+}
+
+textarea{
+	min-height: 100px;
+	max-height: 100px;
+	min-width: 95%;
+	max-width: 95%;
+}
+
+#boton {
+	background: #31384A;
+	color: #fff;
+	padding: 10px;
+	width: 98%;
+}
+
+#boton:hover{
+	  cursor: pointer;
+}
+
+.contenido{
+	margin-top: 10px;
+	width: 80%;
+	margin: auto;
+}
+
+.contenido img {
+	width: 320px;
+	margin-left: 350px;
+}
+
+.informacion {
+	width: 80%;
+	margin: auto;
+	text-align: justify;
+	size: 50px;
+	font-family: Console;
+}
+
+select{
+	width: 48%;
+	height: 40px;
+	font-family: monospace;
+	font-size: 15px;
+ 
+}
